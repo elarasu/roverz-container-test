@@ -1,7 +1,7 @@
 # roverz-container-test
 
 ## instructions
-   * npm i -S https://gitlab.com/mongrov/roverz-container-test.git
+   * npm i -S https://github.com/elarasu/roverz-container-test.git
 
 ### unit test
    * npm test
